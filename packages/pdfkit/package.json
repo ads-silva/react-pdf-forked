@@ -1,5 +1,5 @@
 {
-  "name": "@react-pdf/pdfkit",
+  "name": "@ads-silva/pdfkit",
   "version": "2.4.0",
   "description": "A PDF generation library for Node.js",
   "main": "./lib/pdfkit.cjs.js",

@@ -1,5 +1,5 @@
 {
-  "name": "@react-pdf/render",
+  "name": "@ads-silva/render",
   "version": "3.2.0",
   "license": "MIT",
   "description": "A render engine for Node and the browser",

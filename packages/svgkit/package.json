@@ -1,5 +1,5 @@
 {
-  "name": "@react-pdf/svgkit",
+  "name": "@ads-silva/svgkit",
   "license": "MIT",
   "version": "2.2.0",
   "description": "A SVG generation library for Node.js and browser",
